@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+  Result list for an individual event where one of the classes use multiple courses (butterfly-loop
+style).
+-->
+<ResultList xmlns="http://www.orienteering.org/datastandard/3.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    iofVersion="3.0"
+    createTime="2011-07-31T22:46:33+01:00"
+    creator="Example Software"
+    status="Complete">
+    <Event>
+        <Name>Example event</Name>
+        <StartTime>
+            <Date>2011-07-30</Date>
+            <Time>10:00:00+01:00</Time>
+        </StartTime>
+        <EndTime>
+            <Date>2011-07-30</Date>
+            <Time>14:00:00+01:00</Time>
+        </EndTime>
+    </Event>
+    <ClassResult>
+        <Class>
+            <Id>1</Id>
+            <Name>Men Elite</Name>
+        </Class>
+        <!-- if there are multiple courses per class, a Course element without any id may be
+        included to express the properties of an average pseudo course -->
+        <Course>
+            <!-- course length is expressed in meters -->
+            <Length>4650</Length>
+            <!-- course climb is expressed in meters; omit the Climb element if the course climb is
+            not known -->
+            <Climb>160</Climb>
+        </Course>
+        <PersonResult>
+            <Person>
+                <Id>1</Id>
+                <Name>
+                    <Family>Wood</Family>
+                    <Given>George</Given>
+                </Name>
+            </Person>
+            <!-- the Organisation element is to be omitted if the competitor does not represent a
+            club -->
+            <Result>
+                <BibNumber>101</BibNumber>
+                <!-- start and finish times are expressed in ISO 8601 format, optionally including
+                time zone information: YYYY-MM-DDThh:mm:ss[.s[s[s]]][((+|-)hh:mm)|Z] -->
+                <!-- for a detailed specification, see http://www.w3.org/TR/xmlschema-2/#dateTime -->
+                <StartTime>2011-07-30T10:00:00+01:00</StartTime>
+                <!-- times are expressed in seconds, use period as decimal separator for fractions
+                of seconds -->
+                <Time>2001</Time>
+                <!-- the result status, see the xml schema file for all status codes -->
+                <Status>OK</Status>
+                <!-- the Course element may be used on person result level when not all competitors
+                in the class have been assigned the same course, e.g. when butterfly loops are used -->
+                <Course>
+                    <Id>1</Id>
+                    <Name>Men Elite-1</Name>
+                    <Length>4650</Length>
+                    <Climb>160</Climb>
+                </Course>
+                <!-- split times may be omitted, but if they are present all controls of the course
+                that is assigned to the competitor must be included in the correct order, even if
+                they have not been visited -->
+                <!-- start and finish punches must not be included; use StartTime and FinishTime of
+                the Result element instead -->
+                <SplitTime>
+                    <ControlCode>31</ControlCode>
+                    <!-- if the control has been visited but the time is not known (e.g. due to a
+                    failing punching unit), omit the Time element -->
+                    <Time>501</Time>
+                </SplitTime>
+                <SplitTime>
+                    <ControlCode>32</ControlCode>
+                    <Time>720</Time>
+                </SplitTime>
+                <SplitTime>
+                    <ControlCode>31</ControlCode>
+                    <Time>818</Time>
+                </SplitTime>
+                <SplitTime>
+                    <ControlCode>33</ControlCode>
+                    <Time>1136</Time>
+                </SplitTime>
+                <SplitTime>
+                    <ControlCode>31</ControlCode>
+                    <Time>1593</Time>
+                </SplitTime>
+            </Result>
+        </PersonResult>
+    </ClassResult>
+</ResultList>

@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ResultList xmlns="http://www.orienteering.org/datastandard/3.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" iofVersion="3.0"
+    createTime="2023-05-20T22:10:38.682" creator="SportSoftware OE12 V.12.1">
+    <Event>
+        <Name>CF MD - WRE - 20 05 2023</Name>
+        <StartTime>
+            <Date>2023-05-20</Date>
+            <Time>09:45:00.000</Time>
+        </StartTime>
+    </Event>
+    <ClassResult>
+        <Class>
+            <Id>9001</Id>
+            <Name>A_H21</Name>
+        </Class>
+
+
+    </ClassResult>
+    <ClassResult>
+        <Class>
+            <Id>9002</Id>
+            <Name>Open Noir A</Name>
+        </Class>
+
+
+    </ClassResult>
+    <ClassResult>
+        <Class>
+            <Id>9003</Id>
+            <Name>B_D21</Name>
+        </Class>
+
+
+    </ClassResult>
+    <ClassResult>
+        <Class>
+            <Id>9004</Id>
+            <Name>Open Noir B</Name>
+        </Class>
+
+
+    </ClassResult>
+    <ClassResult>
+        <Class>
+            <Id>9005</Id>
+            <Name>C_H18 20</Name>
+        </Class>
+
+
+    </ClassResult>
+    <ClassResult>
+        <Class>
+            <Id>9006</Id>
+            <Name>Open Noir C</Name>
+        </Class>
+
+
+    </ClassResult>
+    <ClassResult>
+        <Class>
+            <Id>9007</Id>
+            <Name>D_D18 20</Name>
+        </Class>
+
+
+    </ClassResult>
+    <ClassResult>
+        <Class>
+            <Id>9008</Id>
+            <Name>Open Noir D</Name>
+        </Class>
+
+
+    </ClassResult>
+    <ClassResult>
+        <Class>
+            <Id>9009</Id>
+            <Name>E_H35 40</Name>
+        </Class>
+
+
+    </ClassResult>
+    <ClassResult>
+        <Class>
+            <Id>9010</Id>
+            <Name>Open Noir E</Name>
+        </Class>
+
+
+    </ClassResult>
+    <ClassResult>
+        <Class>
+            <Id>9011</Id>
+            <Name>F_D35 40</Name>
+        </Class>
+
+
+    </ClassResult>
+    <ClassResult>
+        <Class>
+            <Id>9012</Id>
+            <Name>Open Noir F</Name>
+        </Class>
+
+
+    </ClassResult>
+    <ClassResult>
+        <Class>
+            <Id>9013</Id>
+            <Name>G_H45 50</Name>
+        </Class>
+
+
+    </ClassResult>
+    <ClassResult>
+        <Class>
+            <Id>9014</Id>
+            <Name>Open Noir G</Name>
+        </Class>
+
+
+    </ClassResult>
+    <ClassResult>
+        <Class>
+            <Id>9015</Id>
+            <Name>H_D45 50</Name>
+        </Class>
+
+
+    </ClassResult>
+    <ClassResult>
+        <Class>
+            <Id>9016</Id>
+            <Name>Open Noir H</Name>
+        </Class>
+
+
+    </ClassResult>
+    <ClassResult>
+        <Class>
+            <Id>9017</Id>
+            <Name>I_H55 60 65</Name>
+        </Class>
+
+
+    </ClassResult>
+    <ClassResult>
+        <Class>
+            <Id>9018</Id>
+            <Name>Open Violet I</Name>
+        </Class>
+
+
+    </ClassResult>
+    <ClassResult>
+        <Class>
+            <Id>9019</Id>
+            <Name>J_D55 60 65</Name>
+        </Class>
+
+
+    </ClassResult>
+    <ClassResult>
+        <Class>
+            <Id>9020</Id>
+            <Name>Open Violet J</Name>
+        </Class>
+
+
+    </ClassResult>
+    <ClassResult>
+        <Class>
+            <Id>9021</Id>
+            <Name>K_H70+</Name>
+        </Class>
+
+
+    </ClassResult>
+    <ClassResult>
+        <Class>
+            <Id>9022</Id>
+            <Name>Open Violet K</Name>
+        </Class>
+
+
+    </ClassResult>
+    <ClassResult>
+        <Class>
+            <Id>9023</Id>
+            <Name>L_D70+</Name>
+        </Class>
+
+
+    </ClassResult>
+    <ClassResult>
+        <Class>
+            <Id>9024</Id>
+            <Name>Open Violet L</Name>
+        </Class>
+
+
+    </ClassResult>
+    <ClassResult>
+        <Class>
+            <Id>9025</Id>
+            <Name>M_H16</Name>
+        </Class>
+
+
+    </ClassResult>
+    <ClassResult>
+        <Class>
+            <Id>9026</Id>
+            <Name>Open Orange M</Name>
+        </Class>
+
+
+    </ClassResult>
+    <ClassResult>
+        <Class>
+            <Id>9027</Id>
+            <Name>Mbis_D16</Name>
+        </Class>
+
+
+    </ClassResult>
+    <ClassResult>
+        <Class>
+            <Id>9028</Id>
+            <Name>Open Orange Mbis</Name>
+        </Class>
+
+
+    </ClassResult>
+    <ClassResult>
+        <Class>
+            <Id>9029</Id>
+            <Name>N_H14</Name>
+        </Class>
+
+
+    </ClassResult>
+    <ClassResult>
+        <Class>
+            <Id>9030</Id>
+            <Name>Open Jaune N</Name>
+        </Class>
+
+
+    </ClassResult>
+    <ClassResult>
+        <Class>
+            <Id>9031</Id>
+            <Name>Nbis_D14</Name>
+        </Class>
+
+
+    </ClassResult>
+    <ClassResult>
+        <Class>
+            <Id>9032</Id>
+            <Name>Open Jaune Nbis</Name>
+        </Class>
+
+
+    </ClassResult>
+    <ClassResult>
+        <Class>
+            <Id>9033</Id>
+            <Name>O_HD12</Name>
+        </Class>
+
+
+    </ClassResult>
+    <ClassResult>
+        <Class>
+            <Id>9034</Id>
+            <Name>Open Bleu O</Name>
+        </Class>
+
+
+    </ClassResult>
+    <ClassResult>
+        <Class>
+            <Id>9035</Id>
+            <Name>Open Vert P</Name>
+        </Class>
+
+
+    </ClassResult>
+    <ClassResult>
+        <Class>
+            <Id>9036</Id>
+            <Name>Ombre verte</Name>
+        </Class>
+
+
+    </ClassResult>
+</ResultList>

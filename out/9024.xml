@@ -1,0 +1,431 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ResultList xmlns="http://www.orienteering.org/datastandard/3.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" iofVersion="3.0"
+    createTime="2023-05-20T22:10:38.682" creator="SportSoftware OE12 V.12.1">
+    <Event>
+        <Name>CF MD - WRE - 20 05 2023</Name>
+        <StartTime>
+            <Date>2023-05-20</Date>
+            <Time>09:45:00.000</Time>
+        </StartTime>
+    </Event>
+
+
+    <ClassResult>
+        <Class>
+            <Id>9024</Id>
+            <Name>Open Violet L</Name>
+        </Class>
+        <Course>
+            <Id>9024</Id>
+            <Name>Open Violet L</Name>
+            <Length>2000</Length>
+            <Climb>35</Climb>
+            <NumberOfControls>9</NumberOfControls>
+        </Course>
+        <PersonResult>
+            <Person sex="M">
+                <Id>41653</Id>
+                <Name>
+                    <Family>DEVIGNE</Family>
+                    <Given>Maxence</Given>
+                </Name>
+                <BirthDate>2000-01-01</BirthDate>
+            </Person>
+            <Organisation>
+                <Id>5906</Id>
+                <Name>5906HF VALMO</Name>
+                <ShortName>5906HF VALMO</ShortName>
+                <Country code="Fra">Fra</Country>
+            </Organisation>
+            <Result raceNumber="1">
+                <BibNumber>2237</BibNumber>
+                <StartTime>2023-05-20T13:46:00.000</StartTime>
+                <FinishTime>2023-05-20T14:13:06.000</FinishTime>
+                <Time>1626</Time>
+                <TimeBehind>0</TimeBehind>
+                <Position>1</Position>
+                <Status>OK</Status>
+                <SplitTime>
+                    <ControlCode>45</ControlCode>
+                    <Time>203</Time>
+                </SplitTime>
+                <SplitTime>
+                    <ControlCode>138</ControlCode>
+                    <Time>358</Time>
+                </SplitTime>
+                <SplitTime>
+                    <ControlCode>80</ControlCode>
+                    <Time>478</Time>
+                </SplitTime>
+                <SplitTime>
+                    <ControlCode>51</ControlCode>
+                    <Time>972</Time>
+                </SplitTime>
+                <SplitTime>
+                    <ControlCode>54</ControlCode>
+                    <Time>1051</Time>
+                </SplitTime>
+                <SplitTime>
+                    <ControlCode>46</ControlCode>
+                    <Time>1188</Time>
+                </SplitTime>
+                <SplitTime>
+                    <ControlCode>36</ControlCode>
+                    <Time>1349</Time>
+                </SplitTime>
+                <SplitTime>
+                    <ControlCode>32</ControlCode>
+                    <Time>1497</Time>
+                </SplitTime>
+                <SplitTime>
+                    <ControlCode>255</ControlCode>
+                    <Time>1580</Time>
+                </SplitTime>
+                <ControlCard>1590187</ControlCard>
+                <AssignedFee>
+                    <Fee type="Normal">
+                        <Name>Actual</Name>
+                        <Amount>15.50</Amount>
+                    </Fee>
+                </AssignedFee>
+            </Result>
+        </PersonResult>
+        <PersonResult>
+            <Person sex="F">
+                <Name>
+                    <Family>Rapkins</Family>
+                    <Given>Lynda</Given>
+                </Name>
+                <BirthDate>1952-01-01</BirthDate>
+            </Person>
+            <Organisation>
+                <Id>10064</Id>
+                <Name>10064PO Enoggeroos</Name>
+                <ShortName>10064PO Enoggeroos</ShortName>
+                <Country code="AU">AU</Country>
+            </Organisation>
+            <Result raceNumber="1">
+                <BibNumber>2617</BibNumber>
+                <StartTime>2023-05-20T13:44:00.000</StartTime>
+                <FinishTime>2023-05-20T14:13:55.000</FinishTime>
+                <Time>1795</Time>
+                <TimeBehind>169</TimeBehind>
+                <Position>2</Position>
+                <Status>OK</Status>
+                <SplitTime>
+                    <ControlCode>45</ControlCode>
+                    <Time>245</Time>
+                </SplitTime>
+                <SplitTime>
+                    <ControlCode>138</ControlCode>
+                    <Time>382</Time>
+                </SplitTime>
+                <SplitTime>
+                    <ControlCode>80</ControlCode>
+                    <Time>475</Time>
+                </SplitTime>
+                <SplitTime>
+                    <ControlCode>51</ControlCode>
+                    <Time>1202</Time>
+                </SplitTime>
+                <SplitTime>
+                    <ControlCode>54</ControlCode>
+                    <Time>1256</Time>
+                </SplitTime>
+                <SplitTime>
+                    <ControlCode>46</ControlCode>
+                    <Time>1358</Time>
+                </SplitTime>
+                <SplitTime>
+                    <ControlCode>36</ControlCode>
+                    <Time>1514</Time>
+                </SplitTime>
+                <SplitTime>
+                    <ControlCode>32</ControlCode>
+                    <Time>1642</Time>
+                </SplitTime>
+                <SplitTime>
+                    <ControlCode>255</ControlCode>
+                    <Time>1715</Time>
+                </SplitTime>
+                <ControlCard>1931356</ControlCard>
+                <AssignedFee>
+                    <Fee type="Normal">
+                        <Name>Actual</Name>
+                        <Amount>22.20</Amount>
+                    </Fee>
+                </AssignedFee>
+            </Result>
+        </PersonResult>
+        <PersonResult>
+            <Person sex="F">
+                <Id>2474</Id>
+                <Name>
+                    <Family>LEMERCIER</Family>
+                    <Given>Jocelyne</Given>
+                </Name>
+                <BirthDate>1951-01-01</BirthDate>
+            </Person>
+            <Organisation>
+                <Id>5407</Id>
+                <Name>5407GE SO Luneville</Name>
+                <ShortName>5407GE SO Luneville</ShortName>
+                <Country code="Fra">Fra</Country>
+            </Organisation>
+            <Result raceNumber="1">
+                <BibNumber>2504</BibNumber>
+                <StartTime>2023-05-20T13:42:00.000</StartTime>
+                <FinishTime>2023-05-20T14:27:52.000</FinishTime>
+                <Time>2752</Time>
+                <TimeBehind>1126</TimeBehind>
+                <Position>3</Position>
+                <Status>OK</Status>
+                <SplitTime>
+                    <ControlCode>45</ControlCode>
+                    <Time>407</Time>
+                </SplitTime>
+                <SplitTime>
+                    <ControlCode>138</ControlCode>
+                    <Time>657</Time>
+                </SplitTime>
+                <SplitTime>
+                    <ControlCode>80</ControlCode>
+                    <Time>813</Time>
+                </SplitTime>
+                <SplitTime>
+                    <ControlCode>51</ControlCode>
+                    <Time>1588</Time>
+                </SplitTime>
+                <SplitTime>
+                    <ControlCode>54</ControlCode>
+                    <Time>1742</Time>
+                </SplitTime>
+                <SplitTime>
+                    <ControlCode>46</ControlCode>
+                    <Time>1923</Time>
+                </SplitTime>
+                <SplitTime>
+                    <ControlCode>36</ControlCode>
+                    <Time>2195</Time>
+                </SplitTime>
+                <SplitTime>
+                    <ControlCode>32</ControlCode>
+                    <Time>2492</Time>
+                </SplitTime>
+                <SplitTime>
+                    <ControlCode>255</ControlCode>
+                    <Time>2618</Time>
+                </SplitTime>
+                <ControlCard>34059</ControlCard>
+                <AssignedFee>
+                    <Fee type="Normal">
+                        <Name>Actual</Name>
+                        <Amount>15.50</Amount>
+                    </Fee>
+                </AssignedFee>
+            </Result>
+        </PersonResult>
+        <PersonResult>
+            <Person sex="F">
+                <Id>7304</Id>
+                <Name>
+                    <Family>LELOUP</Family>
+                    <Given>Blandine</Given>
+                </Name>
+                <BirthDate>1965-01-01</BirthDate>
+            </Person>
+            <Organisation>
+                <Id>6906</Id>
+                <Name>6906AR ALCO</Name>
+                <ShortName>6906AR ALCO</ShortName>
+                <Country code="Fra">Fra</Country>
+            </Organisation>
+            <Result raceNumber="1">
+                <BibNumber>362</BibNumber>
+                <StartTime>2023-05-20T13:50:00.000</StartTime>
+                <FinishTime>2023-05-20T15:02:44.000</FinishTime>
+                <Time>4364</Time>
+                <TimeBehind>2738</TimeBehind>
+                <Position>4</Position>
+                <Status>OK</Status>
+                <SplitTime>
+                    <ControlCode>45</ControlCode>
+                    <Time>420</Time>
+                </SplitTime>
+                <SplitTime>
+                    <ControlCode>138</ControlCode>
+                    <Time>691</Time>
+                </SplitTime>
+                <SplitTime>
+                    <ControlCode>80</ControlCode>
+                    <Time>861</Time>
+                </SplitTime>
+                <SplitTime>
+                    <ControlCode>51</ControlCode>
+                    <Time>2140</Time>
+                </SplitTime>
+                <SplitTime>
+                    <ControlCode>54</ControlCode>
+                    <Time>2221</Time>
+                </SplitTime>
+                <SplitTime>
+                    <ControlCode>46</ControlCode>
+                    <Time>2540</Time>
+                </SplitTime>
+                <SplitTime>
+                    <ControlCode>36</ControlCode>
+                    <Time>3955</Time>
+                </SplitTime>
+                <SplitTime>
+                    <ControlCode>32</ControlCode>
+                    <Time>4142</Time>
+                </SplitTime>
+                <SplitTime>
+                    <ControlCode>255</ControlCode>
+                    <Time>4261</Time>
+                </SplitTime>
+                <ControlCard>1690906</ControlCard>
+                <AssignedFee>
+                    <Fee type="Normal">
+                        <Name>Actual</Name>
+                        <Amount>15.50</Amount>
+                    </Fee>
+                </AssignedFee>
+            </Result>
+        </PersonResult>
+        <PersonResult>
+            <Person sex="F">
+                <Id>701</Id>
+                <Name>
+                    <Family>ABISSE</Family>
+                    <Given>Gisele</Given>
+                </Name>
+                <BirthDate>1943-01-01</BirthDate>
+            </Person>
+            <Organisation>
+                <Id>2508</Id>
+                <Name>2508BF BALISE 25</Name>
+                <ShortName>2508BF BALISE 25</ShortName>
+                <Country code="Fra">Fra</Country>
+            </Organisation>
+            <Result raceNumber="1">
+                <BibNumber>863</BibNumber>
+                <StartTime>2023-05-20T13:40:00.000</StartTime>
+                <FinishTime>2023-05-20T14:54:20.000</FinishTime>
+                <Time>4460</Time>
+                <TimeBehind>2834</TimeBehind>
+                <Position>5</Position>
+                <Status>OK</Status>
+                <SplitTime>
+                    <ControlCode>45</ControlCode>
+                    <Time>867</Time>
+                </SplitTime>
+                <SplitTime>
+                    <ControlCode>138</ControlCode>
+                    <Time>1669</Time>
+                </SplitTime>
+                <SplitTime>
+                    <ControlCode>80</ControlCode>
+                    <Time>1802</Time>
+                </SplitTime>
+                <SplitTime>
+                    <ControlCode>51</ControlCode>
+                    <Time>2671</Time>
+                </SplitTime>
+                <SplitTime>
+                    <ControlCode>54</ControlCode>
+                    <Time>2795</Time>
+                </SplitTime>
+                <SplitTime>
+                    <ControlCode>46</ControlCode>
+                    <Time>3050</Time>
+                </SplitTime>
+                <SplitTime>
+                    <ControlCode>36</ControlCode>
+                    <Time>4129</Time>
+                </SplitTime>
+                <SplitTime>
+                    <ControlCode>32</ControlCode>
+                    <Time>4273</Time>
+                </SplitTime>
+                <SplitTime>
+                    <ControlCode>255</ControlCode>
+                    <Time>4370</Time>
+                </SplitTime>
+                <ControlCard>8250822</ControlCard>
+                <AssignedFee>
+                    <Fee type="Normal">
+                        <Name>Actual</Name>
+                        <Amount>15.50</Amount>
+                    </Fee>
+                </AssignedFee>
+            </Result>
+        </PersonResult>
+        <PersonResult>
+            <Person sex="F">
+                <Id>19346</Id>
+                <Name>
+                    <Family>WISSEMBERG</Family>
+                    <Given>Agnès</Given>
+                </Name>
+                <BirthDate>1971-01-01</BirthDate>
+            </Person>
+            <Organisation>
+                <Id>5116</Id>
+                <Name>5116GE ASO Sillery</Name>
+                <ShortName>5116GE ASO Sillery</ShortName>
+                <Country code="Fra">Fra</Country>
+            </Organisation>
+            <Result raceNumber="1">
+                <BibNumber>653</BibNumber>
+                <StartTime>2023-05-20T13:48:00.000</StartTime>
+                <FinishTime>2023-05-20T14:57:50.000</FinishTime>
+                <Time>4190</Time>
+                <TimeBehind>2564</TimeBehind>
+                <Status>MissingPunch</Status>
+                <SplitTime>
+                    <ControlCode>45</ControlCode>
+                    <Time>579</Time>
+                </SplitTime>
+                <SplitTime status="Missing">
+                    <ControlCode>138</ControlCode>
+                </SplitTime>
+                <SplitTime>
+                    <ControlCode>80</ControlCode>
+                    <Time>1745</Time>
+                </SplitTime>
+                <SplitTime>
+                    <ControlCode>51</ControlCode>
+                    <Time>2500</Time>
+                </SplitTime>
+                <SplitTime>
+                    <ControlCode>54</ControlCode>
+                    <Time>2593</Time>
+                </SplitTime>
+                <SplitTime>
+                    <ControlCode>46</ControlCode>
+                    <Time>3004</Time>
+                </SplitTime>
+                <SplitTime status="Missing">
+                    <ControlCode>36</ControlCode>
+                </SplitTime>
+                <SplitTime>
+                    <ControlCode>32</ControlCode>
+                    <Time>4027</Time>
+                </SplitTime>
+                <SplitTime>
+                    <ControlCode>255</ControlCode>
+                    <Time>4124</Time>
+                </SplitTime>
+                <ControlCard>1008575</ControlCard>
+                <AssignedFee>
+                    <Fee type="Normal">
+                        <Name>Actual</Name>
+                        <Amount>15.50</Amount>
+                    </Fee>
+                </AssignedFee>
+            </Result>
+        </PersonResult>
+    </ClassResult>
+</ResultList>
